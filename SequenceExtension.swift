@@ -1,9 +1,8 @@
 //
 //  SequenceExtension.swift
-//  Tsukasa
 //
 //  Created by shishir sapkota on 10/9/17.
-//  Copyright © 2017 Bibek Timalsina. All rights reserved.
+//  Copyright © 2017 Shishir. All rights reserved.
 //
 
 import Foundation
