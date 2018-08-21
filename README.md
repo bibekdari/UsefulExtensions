@@ -22,6 +22,7 @@ These extensions will work like utilities for you and make your coding cleaner a
     * Check if string is valid email or not
 * UIColorExtension
     * Create color from Hex value
+    * Create image from UIColor
 * UIDeviceExtension
     * Know the device type: whether it is iPhone 5 or iPad or iPhone-X other version
 * SequenceExtension
