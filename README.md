@@ -5,19 +5,35 @@ These extensions will work like utilities for you and make your coding cleaner a
 
 ## Extensions
 * UIViewExtension
-* UIViewControllerExtension
+    * Set borderColor and borderWidth
+    * Set rounded corners (Left and right side)
+    * Set CACornerMask and fallback while using iOS < 11.0
+    * Set shadow
 * UIViewController+MBProgresHUDExtension
+    * Show and hide progresshud with one line of code
+    * Attach progresshud to UIViewController
 * UIViewController+UIAlertControllerExtension
+    * Show UIAlertController with one line of code
+    * Create confirmation alert
 * StringExtension
+    * Capitalize First letter (only first letter) of String
+    * Create URL from String
+    * Trim white spaces and new line
+    * Check if string is valid email or not
 * UIColorExtension
+    * Create color from Hex value
 * UIDeviceExtension
+    * Know the device type: whether it is iPhone 5 or iPad or iPhone-X other version
 * SequenceExtension
+    * Group the elements of sqeuence i.e. GroupBy like query
 * ArrayExtension
+    * Safe extraction of element at index for preventing issue of array out of bound
 * FontExtension
+    * Type safe font management
 * SwiftyJSON+ObjectMapperExtension
-* String+UIFontExtension
+    * Convert JSON to Mappable object(s) (single or array) in one line of code
 * UINavigationBarExtension
-
+    * Set appearance of UINavigationBar
 
 ## Help
 
